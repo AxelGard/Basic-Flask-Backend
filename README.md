@@ -33,7 +33,9 @@ source env/bin/activate
 ### Coding style
 
 the code style I am is using [pep8](https://pep8.org/).
+
 basic flask structure based on [flask-Organizing](https://exploreflask.com/en/latest/organizing.html)
+
 more from [flask](https://flask.palletsprojects.com)
 
 
